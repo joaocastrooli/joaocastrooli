@@ -2,13 +2,12 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo **João Vitor Castro**, sou natural de **São Paulo**.  
-Concluí o **Ensino Médio integrado ao Curso Técnico em Informática**, onde tive meu primeiro contato sólido com desenvolvimento e lógica de programação.
+Sou de **São Paulo** e concluí o **Ensino Médio integrado ao Técnico em Informática**, onde comecei a estudar desenvolvimento e lógica de programação, tanto em sala quanto de forma autodidata.
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Ferraz de Vasconcelos**.  
-Sou apaixonado por tecnologia e movido por desafios, sempre buscando evoluir por meio de **projetos práticos**, estudo independente constante e aplicação real do que aprendo.
+Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Ferraz de Vasconcelos**.  
+Tenho foco em **back-end**, **automação** e construção de **soluções práticas**, aplicando o que aprendo em projetos reais e estudos independentes.
 
-Tenho interesse especial em, **automação**, **back-end** e **soluções que facilitem processos**, tanto para usuários quanto para empresas.
+Busco evoluir tecnicamente e desenvolver sistemas que otimizem processos e gerem impacto real.
 
 ---
 
