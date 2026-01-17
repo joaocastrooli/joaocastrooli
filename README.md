@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Sou de **São Paulo** e concluí o **Ensino Médio integrado ao Técnico em Informática**, onde comecei a estudar desenvolvimento e lógica de programação, tanto em sala quanto de forma autodidata.
+Sou de **São Paulo** e concluí o **Ensino Médio integrado ao Técnico em Informática**, onde comecei a estudar desenvolvimento e lógica de programação de forma autodidata.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Ferraz de Vasconcelos**.  
 Tenho foco em **back-end**, **automação** e construção de **soluções práticas**, aplicando o que aprendo em projetos reais e estudos independentes.
