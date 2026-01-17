@@ -6,7 +6,7 @@ Me chamo **João Vitor Castro**, sou natural de **São Paulo**.
 Concluí o **Ensino Médio integrado ao Curso Técnico em Informática**, onde tive meu primeiro contato sólido com desenvolvimento e lógica de programação.
 
 Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Ferraz de Vasconcelos**.  
-Sou apaixonado por tecnologia e movido por desafios, sempre buscando evoluir por meio de **projetos práticos**, estudo constante e aplicação real do que aprendo.
+Sou apaixonado por tecnologia e movido por desafios, sempre buscando evoluir por meio de **projetos práticos**, estudo independente constante e aplicação real do que aprendo.
 
 Tenho interesse especial em, **automação**, **back-end** e **soluções que facilitem processos**, tanto para usuários quanto para empresas.
 
