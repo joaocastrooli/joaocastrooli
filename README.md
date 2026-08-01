@@ -1,8 +1,4 @@
-# 🏄 João Castro
-
-**`Desenvolvedor Backend`**
-
-# João Vitor 👋
+# 🏄 João Vitor 
 
 💻 Full Stack Developer em formação
 
