@@ -3,7 +3,7 @@
 💻 Full Stack Developer em formação
 
 Sou de São Paulo e estudante de Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. 
-Meu interesse por tecnologia começou durante o ensino médio técnico, que foi a porta de entrada para a área. 
+Meu interesse por tecnologia começou durante o ensino médio técnico, que foi a porta de entrada para a área. <br/>
 Hoje, tenho direcionado meus estudos para o desenvolvimento de software, criando projetos para aprimorar minhas habilidades e aprender novas tecnologias.
 
 ## 🚀 Tecnologias
